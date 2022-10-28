@@ -1,0 +1,10 @@
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\bin\Debug\Grafico_Server.exe.config
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\bin\Debug\Grafico_Server.exe
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\bin\Debug\Grafico_Server.pdb
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\obj\Debug\Grafico_Server.csprojAssemblyReference.cache
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\obj\Debug\Grafico_Server.Form1.resources
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\obj\Debug\Grafico_Server.Properties.Resources.resources
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\obj\Debug\Grafico_Server.csproj.GenerateResource.cache
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\obj\Debug\Grafico_Server.csproj.CoreCompileInputs.cache
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\obj\Debug\Grafico_Server.exe
+C:\Users\ji.18153\source\repos\Grafico_Server\Grafico_Server\obj\Debug\Grafico_Server.pdb
